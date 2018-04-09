@@ -1,4 +1,4 @@
-package com.supplier_xiaoyu;
+package com.supplier;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "supplier_xiaoyu";
+        return "supplier";
     }
 }

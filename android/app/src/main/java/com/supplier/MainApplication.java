@@ -1,4 +1,4 @@
-package com.supplier_xiaoyu;
+package com.supplier;
 
 import android.app.Application;
 
